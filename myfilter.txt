@@ -1,0 +1,77 @@
+! 2022-02-10 https://www.setopati.com
+www.setopati.com##.desktop-featured-bigyaapan.bigyaapan-item.media > [href="https://islington.edu.np/"]
+www.setopati.com##div.insert-ad:nth-of-type(1)
+www.setopati.com##.col-md-3.col-sm-4.innerpages.right-side
+www.setopati.com##div.insert-ad:nth-of-type(2)
+www.setopati.com##div.desktop-bigyaapan-only.col-md-12.full-bigyaapan > [href="https://www.agnigroup.com.np/"]
+www.setopati.com##.bottom-bigyaapan.row
+www.setopati.com##.mast-head.col-md-12 > .row
+www.setopati.com##.header-bottom.container
+www.setopati.com##body > .col-md-12.top-full.main-bigyaapan
+||img.setopaty.com/uploads/bigyaapan/07823900.jpeg$image
+
+! 2022-02-11 https://www.techpana.com
+www.techpana.com##.mt-2.text-center.col-md-12 > .widget
+www.techpana.com##.mb-2 > .widget > .size-full.wp-block-image > [href]
+||creative.hamropatro.com/img/hamro_banner_350x150.gif$image
+www.techpana.com##.w-100 > section.widget
+www.techpana.com##.mb-3 > .mt-2 > section.widget
+www.techpana.com##.tech-pana-mid > .widget > .size-full.wp-block-image > [href]
+
+! 2022-02-11 https://www.onlinekhabar.com
+www.onlinekhabar.com##.okam-device-desktop.single-top-header.okam-ad-position-wrap
+www.onlinekhabar.com##header#masthead.site-header:nth-of-type(1)
+www.onlinekhabar.com##.after-topics.ok-full-widht-adv
+||www.onlinekhabar.com/wp-content/uploads/2022/01/1230x110.gif$image
+www.onlinekhabar.com##.ok18-single-post-content-wrap > div.okam-device-desktop.single-inbetween-stories.okam-ad-position-wrap
+www.onlinekhabar.com##.okam-device-desktop.single-after-content.okam-ad-position-wrap
+||www.onlinekhabar.com/wp-content/uploads/2021/11/Marvel-900-x-100px-Onlinekhabar.gif$image
+||www.onlinekhabar.com/wp-content/uploads/2022/01/210119_animated_banner_onlinekhabar_900x100.gif$image
+||www.onlinekhabar.com/wp-content/uploads/2022/01/1230x110.gif$image
+.gif|$domain=onlinekhabar.com,image
+www.onlinekhabar.com##div.ok-details-adv-in-left:nth-of-type(1)
+
+! 2022-02-11 https://ekantipur.com
+ekantipur.com##.sticky--bottom__show.sticky--bottom > .text-center
+ekantipur.com##.mainContent-2.mainContent > .row > div > .static-sponsor
+ekantipur.com##main > .row
+ekantipur.com##.col-xs-3
+ekantipur.com##.row > .col-md-10.col-sm-10.col-xs-10 > a.static-sponsor
+ekantipur.com##.portrait.current-news-block.description > .static-sponsor
+ekantipur.com##div.portrait.ekans-col:nth-of-type(1)
+ekantipur.com##.ekans-row
+.gif|$domain=ekantipur.com,image
+
+! 2022-02-11 https://narayanionline.com
+narayanionline.com##.so-content.no-news-main-content > .no-vigyapan-section
+narayanionline.com##div.container > .no-vigyapan-section
+narayanionline.com##.inside-a
+narayanionline.com##.col-lg-3.col-md-4
+narayanionline.com##.no-comment-content-wrap > .no-vigyapan-section
+.gif|$domain=narayanionline.com,image
+
+! 2022-02-11 https://www.setopati.com
+www.setopati.com##.swiper-slide-active.swiper-slide-visible.desktop-bigyaapan-only.swiper-slide > [href="https://click.daraz.com.np/e/_7afLy"]
+www.setopati.com##.swiper-slide-active.swiper-slide-visible.desktop-bigyaapan-only.swiper-slide
+www.setopati.com###swiper-wrapper-d98ffcfeab485065 > .swiper-cube-shadow
+www.setopati.com###desktop_sticky_3d_ad > .cube-bigyaapan > .cube-arena > .swiper-pointer-events.swiper-horizontal.swiper-initialized.swiper-3d.swiper-cube.swiper-container
+www.setopati.com###desktop_sticky_3d_ad > .cube-bigyaapan > .cube-close-btn
+
+! 2022-02-11 https://ratopati.com
+ratopati.com##.center-aligned-ad.row > .col-md-12
+ratopati.com##.center-aligned-ad-close > span
+ratopati.com##.wrapper > .col-md-12
+ratopati.com##.header-blocks
+ratopati.com##.paraAd.flex-paraAd
+ratopati.com##.col-md-3 > div.row
+
+! 2022-02-16 https://www.theverge.com
+www.theverge.com##.adblock-allowlist-messaging__article-wrapper
+
+! 2022-03-22 https://www.photopea.com
+||www.photopea.com/img/pp_tall.png$image
+||www.photopea.com/img/pp_tall.png$image
+
+! 2022-05-21 https://www.facebook.com
+www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
+
