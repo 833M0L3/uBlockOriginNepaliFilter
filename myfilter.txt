@@ -64,6 +64,7 @@ ratopati.com##.wrapper > .col-md-12
 ratopati.com##.header-blocks
 ratopati.com##.paraAd.flex-paraAd
 ratopati.com##.col-md-3 > div.row
+.gif|$domain=ratopati.com,image
 
 ! 2022-02-16 https://www.theverge.com
 www.theverge.com##.adblock-allowlist-messaging__article-wrapper
@@ -74,4 +75,19 @@ www.theverge.com##.adblock-allowlist-messaging__article-wrapper
 
 ! 2022-05-21 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
+
+! 2022-05-28 https://ratopati.com
+ratopati.com##.box-size--width.box-face--is-left.box-face
+ratopati.com##.box-size--width.box-face--is-right.box-face
+ratopati.com##.box-size--width.box-face--is-back.box-face
+ratopati.com##.box-size--width.box-face--is-front.box-face
+ratopati.com##.btn-danger.btn
+||ratopatis.prixacdn.net/media/845-x-90px_Nepa_1.jpg$image
+ratopati.com##div.detailbannerAd.paraAd.row > .col-md-12
+ratopati.com##.ot-material-card-content > div > div.row > .col-md-12
+||ratopatis.prixacdn.net/media/845-x-90px_Nepa_1.jpg$image
+ratopati.com##hr:nth-of-type(2)
+ratopati.com##hr:nth-of-type(3)
+ratopati.com##hr:nth-of-type(4)
+ratopati.com##hr:nth-of-type(5)
 
