@@ -17,6 +17,7 @@ www.techpana.com##.mb-2 > .widget > .size-full.wp-block-image > [href]
 www.techpana.com##.w-100 > section.widget
 www.techpana.com##.mb-3 > .mt-2 > section.widget
 www.techpana.com##.tech-pana-mid > .widget > .size-full.wp-block-image > [href]
+.gif|$domain=techpana.com,image
 
 ! 2022-02-11 https://www.onlinekhabar.com
 www.onlinekhabar.com##.okam-device-desktop.single-top-header.okam-ad-position-wrap
@@ -90,4 +91,13 @@ ratopati.com##hr:nth-of-type(2)
 ratopati.com##hr:nth-of-type(3)
 ratopati.com##hr:nth-of-type(4)
 ratopati.com##hr:nth-of-type(5)
+
+! 2022-06-15 https://www.onlinekhabar.com
+www.onlinekhabar.com##.okam-device-desktop.single-sidebar2.okam-ad-position-wrap
+www.onlinekhabar.com##.okam-device-desktop.single-sidebar.okam-ad-position-wrap
+www.onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(6)
+www.onlinekhabar.com##.okam-device-desktop.single-after-news-firstphoto.okam-ad-position-wrap > .okam-each-ad
+
+! 2022-06-19 https://www.techpana.com
+www.techpana.com##.col-md-8 > .d-md-block.d-none
 
