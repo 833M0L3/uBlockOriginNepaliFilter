@@ -57,6 +57,9 @@ www.setopati.com##.swiper-slide-active.swiper-slide-visible.desktop-bigyaapan-on
 www.setopati.com###swiper-wrapper-d98ffcfeab485065 > .swiper-cube-shadow
 www.setopati.com###desktop_sticky_3d_ad > .cube-bigyaapan > .cube-arena > .swiper-pointer-events.swiper-horizontal.swiper-initialized.swiper-3d.swiper-cube.swiper-container
 www.setopati.com###desktop_sticky_3d_ad > .cube-bigyaapan > .cube-close-btn
+.gif|$domain=img.setopaty.com,image
+.gif|$domain=setopati.com,image
+
 
 ! 2022-02-11 https://ratopati.com
 ratopati.com##.center-aligned-ad.row > .col-md-12
@@ -101,3 +104,144 @@ www.onlinekhabar.com##.okam-device-desktop.single-after-news-firstphoto.okam-ad-
 ! 2022-06-19 https://www.techpana.com
 www.techpana.com##.col-md-8 > .d-md-block.d-none
 
+! 2022-07-24 https://www.setopati.com
+www.setopati.com##div.insert-ad > .desktop-bigyaapan-only.items
+
+! 2022-08-24 https://narayanionline.com
+narayanionline.com##.pt-3.container > div.d-md-block.d-none > .row > .col-md-12
+
+! 2022-09-19 https://www.setopati.com
+||img.setopaty.com/uploads/bigyaapan/53797900.gif$image
+
+! 2022-10-28 https://www.semianalysis.com
+www.semianalysis.com##.subscribe-dialog-scroll-modal-scroll-capture
+www.semianalysis.com##.subscribe-dialog
+
+! 2022-11-24 https://9goal.tv
+||www.youtube.com/live_chat?v=VnSsoIrjFkk&embed_domain=9goal.tv&dark_theme=1$subdocument
+
+! 2022-11-26 https://1337x.to
+1337x.to###le57a3559e4a9f7c779f1dbace5c94bbd45378c95 > div
+
+! 2022-12-07 https://www.facebook.com
+www.facebook.com##.x1y1aw1k.x1yztbdb.xl56j7k.x1q0g3np.x78zum5
+www.facebook.com##div.x1emribx.xl56j7k.x5yr21d.x78zum5.x6s0dn4 > .x1jfb8zj.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1h9r5lt.x1h91t0o.x4k7w5x
+www.facebook.com##div.x1emribx.xl56j7k.x5yr21d.x78zum5.x6s0dn4:nth-of-type(3)
+www.facebook.com##li.x1gz44f.x1i64zmx.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2 > .x1jfb8zj.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4 > .xh8yej3.x1n2onr6.xl56j7k.x5yr21d.xdt5ytf.x78zum5.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
+www.facebook.com##.x9e5oc1.x1i64zmx.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2 > .x1jfb8zj.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4 > .xh8yej3.x1n2onr6.xl56j7k.x5yr21d.xdt5ytf.x78zum5.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
+www.facebook.com##.xdt5ytf.x1n2onr6.x1iyjqo2.x78zum5 > .x1y1aw1k
+www.facebook.com##li.x1gz44f.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2 > .x1jfb8zj.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4 > .xh8yej3.x1n2onr6.xl56j7k.x5yr21d.xdt5ytf.x78zum5.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
+www.facebook.com##.x5ve5x3.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x3nfvp2.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.x1t137rt.x1ja2u2z.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .xuxw1ft.xn3w4p2.xifccgj.x4cne27.x139jcc6.xcud41i.xexx8yu.x1ye3gou.xn6708d.x1q0g3np.xozqiw3.x6s0dn4.xl56j7k.xeuugli.xs83m0k.x1iyjqo2.x1r8uery.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##.x1a2a7pz.x1q0g3np.x78zum5.x1iorvi4.x1swvt13.x18d9i69.x4uap5.x1n2onr6 > .x1pi30zi.x10wlt62.x6ikm8r.x1iyjqo2.x1r8uery > .xyqdw3p.x1o1nzlu.xsgj6o6.xat24cr.x1wfe3co.x1rg5ohu.x1n0m28w > li.x1i64zmx.x1emribx.x1rg5ohu > .x1rg5ohu > .x1rg5ohu.x1n2onr6 > span > .x1swf91x.x1uhb9sk.x1afcbsf.__fb-dark-mode > .x5ve5x3.xl56j7k.x2lah0s.x1iyjqo2.x78zum5.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.x1t137rt.x1ja2u2z.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1i10hfl > .xt0b8zv.x1n2onr6.x117nqv4.x1rg5ohu.x1ypdohk.xi81zsa
+www.facebook.com##.x19xcq9t.x1useyqa.x1n2onr6.xl56j7k.xsdox4t.x3nfvp2.x1qeybcx.xww2gxu.x18nykt9.xudhj91.x14yjl9h.x1l31dnx.xjyslct.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.x1i10hfl
+www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .xdt5ytf.x1n2onr6.x1iyjqo2.x78zum5
+www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
+www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1gz44f.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2 > .x1jfb8zj.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4
+www.facebook.com##.x1iyjqo2 > div > div > .x1lliihq.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xurb0ha.x1sxyh0.x18d9i69.xeuugli.xdj266r.x1mh8g0r.x11i5rnm.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.xm0m39n.x26u7qi.xcfux6l.xu3j5b3.x1qhh985.x1q0q8m5.x6s0dn4
+www.facebook.com##.xwib8y2 > .x1cnzs8.xjkvuk6.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6
+www.facebook.com##.x1a2a7pz.x1q0g3np.x78zum5.xurb0ha.x18d9i69.x4uap5.x1iorvi4.x1n2onr6 > .x1pi30zi.x10wlt62.x6ikm8r.x1iyjqo2.x1r8uery > .xyqdw3p.x1o1nzlu.xsgj6o6.xat24cr.x1wfe3co.x1rg5ohu.x1n0m28w > li.x1i64zmx.x1emribx.x1rg5ohu > .x1rg5ohu > .x1rg5ohu.x1n2onr6 > span > .x1swf91x.x1uhb9sk.x1afcbsf.__fb-dark-mode > .x5ve5x3.xl56j7k.x2lah0s.x1iyjqo2.x78zum5.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.x1t137rt.x1ja2u2z.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1i10hfl > .xt0b8zv.x1n2onr6.x117nqv4.x1rg5ohu.x1ypdohk.xi81zsa
+
+! 2022-12-08 https://www.glassdoor.sg
+www.glassdoor.sg##.py-xl.hardsell
+www.glassdoor.sg##.hardsellContainer
+www.glassdoor.sg##.hardsellOverlay
+
+! 2022-12-10 https://www.facebook.com
+||scontent.fsif1-1.fna.fbcdn.net/v/t51.36329-10/313868275_1302803717224427_1918171943489412397_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=hCpNZ7OvGzwAX8Vnndc&tn=8jO4NEzfpvucJ4nJ&_nc_ht=scontent.fsif1-1.fna&oh=00_AfDzw5Q5PdPVnI29Mvh-SRHia0UBnX6iLnYAbSQsUUyxow&oe=639AFB24$image
+||scontent.fsif1-1.fna.fbcdn.net/v/t51.36329-10/313868275_1302803717224427_1918171943489412397_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=hCpNZ7OvGzwAX8Vnndc&tn=8jO4NEzfpvucJ4nJ&_nc_ht=scontent.fsif1-1.fna&oh=00_AfDzw5Q5PdPVnI29Mvh-SRHia0UBnX6iLnYAbSQsUUyxow&oe=639AFB24$image
+
+! 2022-12-15 https://www.cineplexmovie.com
+www.cineplexmovie.com##.sfGridwrapper
+
+! 2023-01-14 https://narayanionline.com
+||i0.wp.com/narayanionline.com/wp-content/uploads/2022/07/central-collage-1-scaled.jpg?*&ssl=1$image
+narayanionline.com##.col-lg-9.col-md-8 > .no-vigyapan-section
+narayanionline.com##.d-md-none.d-sm-block.top-m.no-vigyapan-section
+narayanionline.com##.pt-3.container > div.mt-3.d-xl-none.d-lg-none.d-md-none.d-sm-block > .row > .col-md-12
+||i0.wp.com/narayanionline.com/wp-content/uploads/2022/09/jeewan-bima-jaruri-chha-1200-x-100-px.gif?fit=1200%2C100&ssl=1$image
+narayanionline.com##.no-vigyapan-mobile.d-md-none.d-block.col-12
+narayanionline.com##body > div.d-md-block.d-none > .row > .col-md-12
+narayanionline.com##div.no-vigyapan-section > .container
+||i0.wp.com/narayanionline.com/wp-content/uploads/2022/06/34330500.jpg?*&ssl=1$image
+narayanionline.com##.no-margin-custom.d-lg-block.d-none.col-lg-3
+||i0.wp.com/narayanionline.com/wp-content/uploads/2022/06/34330500.jpg?*&ssl=1$image
+
+! 2023-01-18 https://ekantipur.com
+||assets-cdn.kantipurdaily.com/uploads/source/ads/honor-1812023123124.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/1-1-1412023052738.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/aamayra-1812023123113.jpg$image
+ekantipur.com##.item-wrapper
+||assets-cdn.kantipurdaily.com/uploads/source/ads/1-1-1412023052738.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/fomo-1812023123103.jpg$image
+ekantipur.com##.swiper-slide-prev.swiper-slide > [href^="https://click.daraz.com.np/e/_CX0iox"]
+||assets-cdn.kantipurdaily.com/uploads/source/ads/honor-1812023123124.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/fomo-1812023123103.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/honor-1812023123124.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/honor-1812023123124.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/1-1-1412023052738.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/fomo-1812023123103.jpg$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/aamayra-1812023123113.jpg$image
+ekantipur.com##.swiper-cube-shadow
+ekantipur.com##.swiper-slide-active.swiper-slide-duplicate.swiper-slide > [href^="https://click.daraz.com.np/e/_CX0iox"]
+ekantipur.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container-3d.swiper-container-cube.swiper-container
+ekantipur.com##.box-close
+ekantipur.com##.current-news-block.description > a.static-sponsor
+
+! 2023-01-22 https://filecr.com
+filecr.com##.alert-wrap
+
+! 2023-03-27 https://www.nytimes.com
+www.nytimes.com###gateway-content
+www.nytimes.com##.e11si9ry5.css-1a48zt4
+www.nytimes.com##.bottom-of-article > div
+www.nytimes.com##.e1lmdhsb0.css-1vxca1d
+
+! 2023-05-06 https://www.reddit.com
+www.reddit.com##._1oRQu-aolgpPPJDblUGTw5
+www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR
+www.reddit.com##._1tvThPWQpORoc2taKebHxs._3Kd8DQpBIbsr5E1JcrMFTY
+www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
+www.reddit.com##._23q1waDr4n_2fR5A7zcZzb.x0hiXHicn7r3BG9m1FJH4
+
+! 2023-06-11 https://app.degoo.com
+app.degoo.com##.ng-tns-c38-7.dialog-container
+app.degoo.com##.ng-trigger-fade.ng-trigger.ng-tns-c38-7
+
+! 2023-06-28 https://yts.mx
+yts.mx##div.hidden-sm.hidden-xs > .alwocme4ir
+
+! 2023-07-18 https://www.mrchecker.net
+www.mrchecker.net##p:nth-of-type(4) > [href="http://cryptomentor.cc/"]
+www.mrchecker.net##.col-lg-12.col-md-12.col-sm-12.col-xs-12 > .container > .row > .col-lg-12.col-md-12.col-sm-12.col-xs-12 > p > [href="https://bit.ly/mrchk"]
+
+! 2023-11-26 https://www.ratopati.com
+www.ratopati.com##.dnn-ad-placeholder.sidebar-adv > .desktop-mode
+www.ratopati.com##.content-banner--single
+www.ratopati.com##[href="https://sarbottamcement.com/"]
+
+! 2024-02-13 https://saurahaonline.com
+saurahaonline.com##div.uk-container > .uk-grid.uk-grid-medium > .uk-width-1-4\@m
+saurahaonline.com###media_image-189
+saurahaonline.com###media_image-95
+saurahaonline.com###media_image-207
+saurahaonline.com##.news.single-text.uk-text-justify > .uk-grid-stack.uk-grid
+saurahaonline.com##div.mt-4.uk-container.ads > .widget_media_image.widget
+saurahaonline.com##div.position-relative.mb-3.cat-head:nth-of-type(4)
+saurahaonline.com###media_image-191
+saurahaonline.com###media_image-127
+saurahaonline.com##div.position-relative.mb-3.cat-head:nth-of-type(6)
+saurahaonline.com###media_image-196
+saurahaonline.com###media_image-206
+
+! 2024-03-01 https://www.reddit.com
+www.reddit.com##reddit-recent-pages
+
+! 2024-04-27 https://nagariknews.nagariknetwork.com
+nagariknews.nagariknetwork.com###adverts12137
+nagariknews.nagariknetwork.com##.footer-sticky-ad.desktop-notice.m-0.show.fixed-bottom.fade.alert-light.alert-dismissible.alert
+nagariknews.nagariknetwork.com##.ads_detail_after_image.mb-3.col-md-12
+nagariknews.nagariknetwork.com##.ads_detail_after_side_after
+.gif|$domain=nagariknetwork.com,image
+.gif|$domain=nagariknews.nagariknetwork.com,image
+.gif|$domain=nagariknewscdn.com,image
